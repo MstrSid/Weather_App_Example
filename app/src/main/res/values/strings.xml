@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Weather App Example</string>
+    <string name="input_hint">Input city name or index</string>
+    <string name="get_weather_btn_text">Get weather</string>
+    <string name="weather_info">City: %s \nTemperature: %s \nDescription: %s</string>
+</resources>
